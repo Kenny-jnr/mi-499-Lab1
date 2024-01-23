@@ -26,13 +26,16 @@ div {
 .earth {
   overflow: hidden;
   border-radius: 50%;
-  width: 270px;
-  height: 270px;
+  width: 40%;
+  height: 40%;
+  cursor: pointer;
 }
 
 .moon {
+  margin-top: 5rem;
   overflow: hidden;
   border-radius: 50%;
-  width: 100px; 
-  height: 100px;
+  width: 10%; 
+  height: 10%;
+  cursor: pointer;
 }
